@@ -1,7 +1,7 @@
 import '../styles/mealPlan.css'
 
 import { useState } from 'react';
-
+import React from 'react';
 import DayCard from './DayCard';
 
 

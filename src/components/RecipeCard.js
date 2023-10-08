@@ -1,3 +1,4 @@
+import React from 'react';
 const RecipeCard = (props) => {
 
     const ingredients = props.ingredients

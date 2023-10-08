@@ -1,5 +1,5 @@
 import '../styles/groceries.css';
-
+import React from 'react';
 const Groceries = (props) => {
     const recipes = props.recipes;
     

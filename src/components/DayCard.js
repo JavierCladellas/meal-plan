@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+import React from 'react';
 import DayCardMeal from "./DayCardMeal";
 
 const DayCard = (props) => {

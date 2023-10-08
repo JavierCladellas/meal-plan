@@ -1,5 +1,6 @@
 import '../styles/recipes.css'
 import RecipeCard from './RecipeCard';
+import React from 'react';
 
 const Recipes = (props) => {
 

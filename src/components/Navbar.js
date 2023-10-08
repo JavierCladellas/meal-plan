@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom/cjs/react-router-dom.min';
 import { useState } from 'react';
+import React from 'react';
 import '../styles/navbar.css';
 
 
