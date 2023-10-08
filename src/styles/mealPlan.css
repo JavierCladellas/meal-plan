@@ -1,0 +1,100 @@
+.meal-plan{
+    display: flex;
+    flex-direction: column;
+    margin:40px 16px;
+    gap:24px;
+}
+
+.day-card{
+    width: 90%;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    transition: all 0.3s ease-in-out;
+    box-sizing: border-box;
+    gap: 16px;
+}
+
+.day-card.swipe,.day-card.swipe:hover{
+    transform: translateX(-100%);
+    -webkit-transform: translateX(-100%);
+    opacity: 0;
+    pointer-events: none;
+}
+
+.day-card>.day-card-header>h3{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.day-card>.day-card-body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.day-card>.day-card-body>.day-card-meal{
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    align-items: center;
+    width: 100%;
+}
+.day-card>.day-card-body>.day-card-meal>.meal-photo-wrapper{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.day-card>.day-card-body>.day-card-meal>.meal-photo-wrapper>img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: 1px solid #e0e0e0;
+}
+.day-card>.day-card-body>.day-card-meal>.meal-name-wrapper{
+    flex: 1;
+    height: 40px;
+    border-bottom: 1px solid #e0e0e0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+
+.day-card>.day-card-body>.day-card-meal>.meal-name-wrapper>div{
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: 500;
+    width: 100%;
+    height: 100%;
+    outline: none;
+}
+.day-card>.day-card-body>.day-card-meal>.meal-name-wrapper>div>div{
+    border:none !important;
+}
+
+button.remove-meal-btn{
+    background-color: #fff;
+    color: #ff4d4f;
+    border: none;
+    cursor: pointer;
+    font-size: 36px;
+    transition: all 0.3s ease-in-out;
+}
+
+button.add-meal-btn, button.add-day-btn{
+    background-color: #fff;
+    color: #2d9cdb;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+}

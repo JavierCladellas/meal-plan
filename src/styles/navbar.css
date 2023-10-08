@@ -1,0 +1,33 @@
+nav{
+    background-color:#EC651E;
+    color:white;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+nav>a{
+    color:white;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 8px;
+    transition: 0.3s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+nav>a>i{
+    width: 16px;
+    height: 16px;
+}
+
+nav>a.active{
+    font-weight: bold;
+}

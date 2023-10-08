@@ -1,0 +1,24 @@
+.groceries{
+    display: flex;
+    flex-direction: column;
+    padding:40px 40px;
+    align-items: center;
+    height: 100%;
+    box-sizing: border-box;
+    gap:16px;
+}
+.groceries>h2{
+    margin:0;
+    margin-bottom: 16px;
+}
+.grocery-item{
+    display: flex;
+    width: 100%;
+    flex-direction:row;
+    justify-content: flex-start;
+    gap:32px;
+}
+.grocery-item>p{
+    width: 40%;
+    margin:0;
+}

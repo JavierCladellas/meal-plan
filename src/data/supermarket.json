@@ -1,0 +1,6 @@
+{
+    "milk": {
+        "sell_unit":"liter",
+        "common_unit":"cup"
+    }
+}

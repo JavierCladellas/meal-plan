@@ -1,0 +1,92 @@
+{
+    "Carbonara":{
+        "Spaghetti":{
+            "quantity": 100,
+            "unit": "g"
+        },
+        "Guanciale":{
+            "quantity": 50,
+            "unit": "g"
+        },
+        "Pecorino":{
+            "quantity": 25,
+            "unit": "g"
+        },
+        "Parmesan":{
+            "quantity": 25,
+            "unit": "g"
+        },
+        "Egg":{
+            "quantity": 2,
+            "unit": ""
+        },
+        "Pepper":{
+            "quantity": 1,
+            "unit": "pinch"
+        }
+    },
+    "Turkey Sandwich":{
+        "Bread":{
+            "quantity": 2,
+            "unit": "slices"
+        },
+        "Turkey":{
+            "quantity": 1,
+            "unit": "slices"
+        },
+        "Spinach":{
+            "quantity": 1,
+            "unit": "handful"
+        },
+        "Tomato":{
+            "quantity": 2,
+            "unit": "slices"
+        },
+        "Mayonnaise":{
+            "quantity": 1,
+            "unit": "tbsp"
+        },
+        "Emmental":{
+            "quantity": 1,
+            "unit": "slices"
+        }
+    },
+    "Mayonnaise":{
+        "Egg":{
+            "quantity": 1,
+            "unit": ""
+        },
+        "Garlic":{
+            "quantity": 1,
+            "unit": "clove"
+        },
+        "Mustard":{
+            "quantity": 1,
+            "unit": "tsp"
+        },
+        "Worcestershire sauce":{
+            "quantity": 1,
+            "unit": "tsp"
+        },
+        "Lemon juice":{
+            "quantity": 1,
+            "unit": "tsp"
+        },
+        "White vinegar":{
+            "quantity": 0.5,
+            "unit": "tsp"
+        },
+        "Sugar":{
+            "quantity": 0.25,
+            "unit": "tsp"
+        },
+        "Salt":{
+            "quantity": 1,
+            "unit": "pinch"
+        },
+        "Sunflower oil":{
+            "quantity": 0.5,
+            "unit": "cups"
+        }
+    }
+} 
