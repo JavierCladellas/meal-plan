@@ -43,5 +43,5 @@
   "devDependencies": {
     "gh-pages": "^6.0.0"
   },
-  "homepage": "http://{javiercladellas}.github.io/{meal-plan}"
+  "homepage": "http://javiercladellas.github.io/meal-plan"
 }
