@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "%7Bjaviercladellas%7D.github.io/%7Bmeal-plan%7D/static/css/main.d02784e3.chunk.css",
-    "main.js": "%7Bjaviercladellas%7D.github.io/%7Bmeal-plan%7D/static/js/main.185be15e.chunk.js",
-    "main.js.map": "%7Bjaviercladellas%7D.github.io/%7Bmeal-plan%7D/static/js/main.185be15e.chunk.js.map",
-    "runtime~main.js": "%7Bjaviercladellas%7D.github.io/%7Bmeal-plan%7D/static/js/runtime~main.1f39f3c4.js",
-    "runtime~main.js.map": "%7Bjaviercladellas%7D.github.io/%7Bmeal-plan%7D/static/js/runtime~main.1f39f3c4.js.map",
-    "static/js/2.9140c14a.chunk.js": "%7Bjaviercladellas%7D.github.io/%7Bmeal-plan%7D/static/js/2.9140c14a.chunk.js",
-    "static/js/2.9140c14a.chunk.js.map": "%7Bjaviercladellas%7D.github.io/%7Bmeal-plan%7D/static/js/2.9140c14a.chunk.js.map",
-    "index.html": "%7Bjaviercladellas%7D.github.io/%7Bmeal-plan%7D/index.html",
-    "precache-manifest.b1e223830530004ed392e66cf1c65bee.js": "%7Bjaviercladellas%7D.github.io/%7Bmeal-plan%7D/precache-manifest.b1e223830530004ed392e66cf1c65bee.js",
-    "service-worker.js": "%7Bjaviercladellas%7D.github.io/%7Bmeal-plan%7D/service-worker.js",
-    "static/css/main.d02784e3.chunk.css.map": "%7Bjaviercladellas%7D.github.io/%7Bmeal-plan%7D/static/css/main.d02784e3.chunk.css.map"
+    "main.css": "/meal-plan/static/css/main.d02784e3.chunk.css",
+    "main.js": "/meal-plan/static/js/main.185be15e.chunk.js",
+    "main.js.map": "/meal-plan/static/js/main.185be15e.chunk.js.map",
+    "runtime~main.js": "/meal-plan/static/js/runtime~main.6156ccc0.js",
+    "runtime~main.js.map": "/meal-plan/static/js/runtime~main.6156ccc0.js.map",
+    "static/js/2.9140c14a.chunk.js": "/meal-plan/static/js/2.9140c14a.chunk.js",
+    "static/js/2.9140c14a.chunk.js.map": "/meal-plan/static/js/2.9140c14a.chunk.js.map",
+    "index.html": "/meal-plan/index.html",
+    "precache-manifest.3eac5b11377672c74fefcf61397aed84.js": "/meal-plan/precache-manifest.3eac5b11377672c74fefcf61397aed84.js",
+    "service-worker.js": "/meal-plan/service-worker.js",
+    "static/css/main.d02784e3.chunk.css.map": "/meal-plan/static/css/main.d02784e3.chunk.css.map"
   }
 }
